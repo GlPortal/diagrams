@@ -5,4 +5,4 @@ Diagrams for Design and Data Models
 
 The following is a high level overivew of the World class and what it does.
 
-[World_Class](graphics/World_class_diagram.png)
+(graphics/World_class_diagram.png)
